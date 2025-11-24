@@ -1,6 +1,4 @@
-# AI Arena - 02.2024 - yovchev_yoan's finiding
-
-# [M-1] Looping through and minting Fighter NFTs in `MegingPool::claimRewards` is a potential denails of service (DoS)
+# Looping through and minting Fighter NFTs in `MegingPool::claimRewards` is a potential denails of service (DoS)
 
 ## Description:
 

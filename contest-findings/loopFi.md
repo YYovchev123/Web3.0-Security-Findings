@@ -1,6 +1,4 @@
-# LoopFi - 05.2024 - yovchev_yoan's finiding
-
-### [H-1] `PrelaunchPoints::lock, lockFor` allows a users to lock s small amount of LRT token and then force ether into the contract claiming as much lpETH as they want, removing the risk of locking a lot of tokens and braking the 2nd invariant
+### `PrelaunchPoints::lock, lockFor` allows a users to lock s small amount of LRT token and then force ether into the contract claiming as much lpETH as they want, removing the risk of locking a lot of tokens and braking the 2nd invariant
 
 **Description:**
 

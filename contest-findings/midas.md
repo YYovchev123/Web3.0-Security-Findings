@@ -1,6 +1,4 @@
-# Midas - 05.2024 - yovchev_yoan's finiding
-
-### [H-1] `ManageableVault` contract is missing storage gaps, potentially leading to storage collision
+### `ManageableVault` contract is missing storage gaps, potentially leading to storage collision
 
 ## Summary
 
